@@ -2,7 +2,7 @@ const inputFirst =
     document.querySelector('[data-calculadora="input-num-first"]')
 const inputSecond = 
     document.querySelector('[data-calculadora="input-num-second"]')
-
+kdfdkjfdjk
 const btnSomar = document.querySelector('[data-calculadora="btn-somar"]')
 const btnSubtrair = document.querySelector('[data-calculadora="btn-subtrair"]')
 const btnMultiplicar = document.querySelector('[data-calculadora="btn-multiplicar"]')
