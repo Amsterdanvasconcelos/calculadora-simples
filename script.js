@@ -25,7 +25,7 @@ const subtrair = () => {
 const multiplicar = () => {
     const multiplicacao = Number(inputFirst.value) * Number(inputSecond.value)
     result.textContent = multiplicacao
-}
+} /* Faça desse jeito */
 
 const dividir = () => {
     const divisao = Number(inputFirst.value) / Number(inputSecond.value)
